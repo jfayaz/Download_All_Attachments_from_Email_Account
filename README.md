@@ -1,4 +1,4 @@
-## Download_All_Attachments_from_Email_Account
+## Download all attachments from your Email account
 
 This code will create a folder 'attachments' and download all the attachments of 
 all of your emails associated with the given mail box such as 'INBOX', in the
